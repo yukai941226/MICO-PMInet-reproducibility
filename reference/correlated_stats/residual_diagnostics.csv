@@ -1,0 +1,4 @@
+metric,method,n_observations,n_splits,random_intercept_variance,residual_shapiro_W,residual_shapiro_p,breusch_pagan_statistic,breusch_pagan_p
+Val_RMSE,OLS with split-clustered robust covariance,160,10,,0.9778687366849302,0.01137377861894336,5.3940219197516726,0.8633523584501652
+Val_MAE,OLS with split-clustered robust covariance,160,10,,0.994144147536224,0.7723683283168031,26.947004447688574,0.002655087473801903
+Val_R2,OLS with split-clustered robust covariance,160,10,,0.9433476635318666,5.033545724029113e-06,15.03971562780432,0.13062059120053657

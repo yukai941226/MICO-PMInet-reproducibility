@@ -1,0 +1,13 @@
+{
+  "selection_scope": "beta selection for the manuscript model using internal validation",
+  "input_granularity": "aggregated validation summaries",
+  "candidate_rows": 128,
+  "candidate_models": 16,
+  "criterion": "Val_RMSE",
+  "tie_breaker": "Val_MAE",
+  "selected_model": "OSB-WMHA-AWA-MORM",
+  "selected_beta": 0.2,
+  "mean_validation_criterion": 1.6070389,
+  "mean_validation_tie_breaker": 0.9714669227600098,
+  "test_metrics_used_for_selection": false
+}

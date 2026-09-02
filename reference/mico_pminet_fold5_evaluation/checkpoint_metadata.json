@@ -1,0 +1,6 @@
+{
+  "model_name": "OSB-WMHA-AWA-MORM",
+  "checkpoint": "reference/mico_pminet_fold5.pt",
+  "retention_repeats": 10,
+  "selection_warning": "This file reports checkpoint performance by held-out cohort and organ retention level; see the manuscript for the interpretation of these results."
+}

@@ -1,0 +1,9 @@
+name: mico-pminet
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.5
+  - pip
+  - pip:
+      - -r requirements.txt
+

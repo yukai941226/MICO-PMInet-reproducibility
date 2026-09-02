@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated article."
+title: "MICO-PMInet reproducibility package"
+type: software
+version: 1.3.0
+date-released: 2026-09-02
+license: MIT
+authors:
+  - family-names: Wei
+    given-names: Bi
+  - family-names: Xiong
+    given-names: Hongli
+  - family-names: Qian
+    given-names: Xuehong
+  - family-names: Ma
+    given-names: Jing
+  - family-names: Chen
+    given-names: Hongbing
+  - family-names: Zhang
+    given-names: Zhong
+  - family-names: Xiao
+    given-names: Hao
+  - family-names: Li
+    given-names: Jianbo
+  - family-names: Yu
+    given-names: Kai
+preferred-citation:
+  type: article
+  title: "MICO-PMInet: An Interpretable Multi-organ Incomplete-input Cooperative Learning Framework Based on ATR-FTIR Spectra for Robust Postmortem Interval Estimation"
+  journal: Analytical Chemistry
+  year: 2026
+  authors:
+    - family-names: Wei
+      given-names: Bi
+    - family-names: Xiong
+      given-names: Hongli
+    - family-names: Qian
+      given-names: Xuehong
+    - family-names: Ma
+      given-names: Jing
+    - family-names: Chen
+      given-names: Hongbing
+    - family-names: Zhang
+      given-names: Zhong
+    - family-names: Xiao
+      given-names: Hao
+    - family-names: Li
+      given-names: Jianbo
+    - family-names: Yu
+      given-names: Kai
